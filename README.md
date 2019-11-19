@@ -1,3 +1,6 @@
+Use this repo to test out learning how to run Lighthouse on Travis CI.
+-> Related YouTube video: https://www.youtube.com/watch?v=82SVcPFIVQI
+
 # Polymer App Toolbox - Starter Kit
 
 [![Build Status](https://travis-ci.org/Polymer/polymer-starter-kit.svg?branch=master)](https://travis-ci.org/Polymer/polymer-starter-kit)
